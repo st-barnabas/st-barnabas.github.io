@@ -1,0 +1,5 @@
+collections:
+  sections:
+    output: true
+  sliderimage:
+    output: true
